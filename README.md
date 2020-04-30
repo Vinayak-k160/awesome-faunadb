@@ -158,6 +158,7 @@ In addition to [Fauna Data Manager](https://docs.fauna.com/fauna/current/fdm/), 
 * [How To Integrate FaunaDB In NodeJS](http://codigofacilito.com/articulos/faunadb-node)
 * [Serverless GraphQL - Part 3](https://nickymeuleman.netlify.app/blog/serverless-graphql-part-3)
 * [JAMstack Dynamic and Async functionality](https://overflowjs.com/posts/JAMstack-Dynamic-and-Async-functionality.html)
+* [Fauna - Gridsome Todo App](https://medium.com/@vinayak.k160/gridsome-faunadb-todo-app-fae13504dbc3)
 
 #### Database concept blogs
 
